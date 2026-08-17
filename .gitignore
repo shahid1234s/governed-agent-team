@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.db
+
+# Node
+node_modules/
+.next/
+out/
+
+# Env / secrets
+.env
+.env.local
+
+# Logs
+*.log
+backend_*.log
+frontend_*.log
+
+# OS
+.DS_Store
